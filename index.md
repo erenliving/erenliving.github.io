@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome to my site! Check out my About page to learn more about me, see my Projects page for what I'm currently working on! Blog posts incoming...
+
+[Under construction]
